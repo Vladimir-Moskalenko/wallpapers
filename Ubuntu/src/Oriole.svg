@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2169" height="1726" viewBox="0 0 2169 1726" xmlns="http://www.w3.org/2000/svg">
+    <g id="Oriole-copy">
+        <linearGradient id="linearGradient1" x1="839.466625" y1="991.318096" x2="1109.08681" y2="985.940128" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#451030" stop-opacity="0.739946"/>
+            <stop offset="1" stop-color="#601f3d" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="linearGradient2" x1="751.48782" y1="793.890268" x2="1468.060974" y2="1287.684833" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#66233c" stop-opacity="1"/>
+            <stop offset="1" stop-color="#2c001e" stop-opacity="0"/>
+        </linearGradient>
+        <path id="Path" fill="url(#linearGradient1)" fill-opacity="0.484079" fill-rule="evenodd" stroke="url(#linearGradient2)" stroke-width="13.7624" stroke-linecap="round" d="M 830.205688 638.29834 C 505.603668 1148.514404 1470.691895 1357.856079 1470.691895 1357.856079"/>
+        <linearGradient id="linearGradient3" x1="2174.38529" y1="1704.480382" x2="22.761795" y2="41.670474" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#451030" stop-opacity="1"/>
+            <stop offset="1" stop-color="#601f3d" stop-opacity="1"/>
+        </linearGradient>
+        <path id="Path-copy" fill="url(#linearGradient3)" fill-opacity="0.484079" fill-rule="evenodd" stroke="#66233c" stroke-width="13.75373" stroke-linecap="round" stroke-linejoin="round" d="M 143.967117 370.886475 C 271.289734 88.243408 411.356812 14.135132 527.86615 10.783447 C 690.1073 6.116333 793.765015 168.066895 793.765015 168.066895 C 793.765015 168.066895 848.07019 175.179077 912.614746 188.736328 C 938.362671 194.144531 987.541809 205.530396 987.541809 205.530396 C 987.541809 205.530396 842.79187 212.052979 784.722229 270.122559 C 410.087067 644.75769 2159.245361 1713.113403 2159.245361 1713.113403 C 2159.245361 1713.113403 1546.786011 1483.13916 1265.288452 1503.834473 C 1131.177734 1513.694214 915.934875 1615.493652 751.134094 1629.143555 C 319.914459 1664.859863 70.430252 1356.910156 26.823313 1069.329346 C -28.373661 705.314514 120.309143 423.404419 143.967117 370.886475 Z"/>
+    </g>
+</svg>
